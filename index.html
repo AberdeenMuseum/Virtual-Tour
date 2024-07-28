@@ -7,6 +7,44 @@
 <style> @-ms-viewport { width: device-width; } </style>
 <link rel="stylesheet" href="vendor/reset.min.css">
 <link rel="stylesheet" href="style.css">
+
+    <style>
+  /* Style for the informational screen */
+  .infoScreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  .infoContent {
+    background-color: #3a4454cc;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 500px;
+    width: 80%;
+    color: #fff;
+  }
+  .infoContent h2 {
+    margin-top: 0;
+    color: #fff;
+  }
+  .infoContent button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    color: #000;
+    cursor: pointer;
+  }
+</style>
 </head>
 <body class="multiple-scenes view-control-buttons">
 
@@ -14,6 +52,11 @@
 
 <div id="sceneList">
   <ul class="scenes">
+    
+         <!-- Button to open the informational screen -->
+      <a href="javascript:void(0)" id="infoButton" class="scene">
+        <li class="text">About</li>
+      </a>
     
       <a href="javascript:void(0)" class="scene" data-id="0-1-bo-railroad">
         <li class="text">[1] B&amp;O Railroad</li>
@@ -142,6 +185,41 @@
 
 <script src="data.js"></script>
 <script src="index.js"></script>
+
+  
+<!-- Informational screen -->
+<div id="infoScreen" class="infoScreen">
+  <div class="infoContent">
+    <h1 style="font-size: 45pt" >Welcome!</h1>
+    <br> <br>
+    <p>Welcome to the historic residential district of West Bel Air Avenue! This virtual tour was begun by a volunteer intern at the Aberdeen Historical Museum. It features information and pictures of various houses and other structures. The tour aims to inform you about the history of these buildings and the people who lived and worked in them. <br>
+<br><br>
+      Please note that the tour is still a work in progress, and more buildings and details will be added over time. However, the  information provided in this tour is just a small percentage of the history of West Bel Air Avenue and greater Aberdeen. If you would like to contribute to the tour by providing feedback, reporting bugs or glitches, or sharing additional knowledge about these places on West Bel Air Avenue, please fill out this  <a href='https://docs.google.com/forms/d/1RXwJAjSFRunmQP75myh-F3MiLRaDYGNyz7upwShOsu0/edit' style='color:lightblue' target=\"_blank\">form. </a> 
+  <br> <br>
+<center> To learn more about Aberdeen, please visit our <a href = 'https://www.aberdeenmuseum.org' style='color:lightblue' target=\"_blank\">website </a>  </center> 
+      <br> <br>
+<center>We hope you enjoy the tour! </center>
+</p>
+    <button id="closeInfo">Close</button>
+  </div>
+</div>
+
+
+
+
+<script>
+  document.getElementById('infoButton').addEventListener('click', function() {
+    document.getElementById('infoScreen').style.display = 'flex';
+  });
+
+  document.getElementById('closeInfo').addEventListener('click', function() {
+    document.getElementById('infoScreen').style.display = 'none';
+  });
+
+document.addEventListener("DOMContentLoaded", function() { var hotspotTextDivs = document.querySelectorAll('.info-hotspot-text'); hotspotTextDivs.forEach(function(hotspotTextDiv) { if(hotspotTextDiv.innerHTML.trim() === '') { hotspotTextDiv.style.display = 'none'; } }); });
+
+
+</script>
 
 </body>
 </html>

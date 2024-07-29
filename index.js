@@ -179,6 +179,17 @@
     return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;');
   }
 
+  function closeAllInfoHotspots() {
+  var infoHotspots = document.querySelectorAll('.info-hotspot.visible');
+  infoHotspots.forEach(function(hotspot) {
+    hotspot.classList.remove('visible');
+  });
+  var modals = document.querySelectorAll('.info-hotspot-modal.visible');
+  modals.forEach(function(modal) {
+    modal.classList.remove('visible');
+  });
+}
+
   function switchScene(scene) {
     stopAutorotate();
     scene.view.setParameters(scene.data.initialViewParameters);
@@ -186,6 +197,7 @@
     startAutorotate();
     updateSceneName(scene);
     updateSceneList(scene);
+    closeAllInfoHotspots();
   }
 
   function updateSceneName(scene) {

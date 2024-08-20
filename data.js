@@ -37,7 +37,7 @@ var APP_DATA = {
           "yaw": 0.7847285340471046,
           "pitch": -0.0044166429334122626,
           "title": "B&amp;O Railroad",
-        "text": "<div>Originally, there were three tracks running past the Aberdeen station. Around the early 1960s, the other two tracks were scrapped, leaving just a single line. This reduction in tracks occurred gradually over several years, reflecting the declining popularity of freight trains and the rise of commercial transportation via trucks, cars, and planes.</div><br><div>Click <a href='https://www.aberdeenmuseum.org/wp-content/uploads/2024/08/Virtual-Tour-content.pdf' style='color:lightblue' target='_blank'>here</a> to learn more about the B&O railroad!</div>"
+        "text": "<div>Originally, there were three tracks running past the Aberdeen station. Around the early 1960s, the other two tracks were scrapped, leaving just a single line. This reduction in tracks occurred gradually over several years, reflecting the declining popularity of freight trains and the rise of commercial transportation via trucks, cars, and planes.</div><br><div>Click <a href='https://www.aberdeenmuseum.org/wp-content/uploads/2024/08/Virtual-Tour-content.pdf' style='color:lightblue' target='_blank'>here</a> to learn more about the railroad!</div>"
 
         },
         {

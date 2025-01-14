@@ -684,7 +684,7 @@ var APP_DATA = {
           "yaw": -2.2542571886048126,
           "pitch": 0.21235472039736614,
           "rotation": 0.7853981633974483,
-          "target": "13-14-soldiers-barracks"
+          "target": "13-14-Carriage-House"
         }
       ],
       "infoHotspots": [

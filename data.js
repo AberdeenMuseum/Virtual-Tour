@@ -249,7 +249,7 @@ var APP_DATA = {
         {
           "yaw": 2.8918004085678604,
           "pitch": -0.11886435295983944,
-          "title": "Baker Tenet Home and Store",
+          "title": "Baker Tenant Home and Store",
           "text": "This house once served dual purposes for the Baker family. We believe the front of the house functioned as a store, while the back served as a residence for tenant farmers, due to its elongated structure and the presence of two side doors.<div><br></div><div>Click here to learn more about the Baker store!</div>"
         },
         {
@@ -259,8 +259,8 @@ var APP_DATA = {
           "text": ""
         },
         {
-          "yaw": -2.573620905634044,
-          "pitch": -0.08800881959840545,
+         "yaw": -2.787428042386642,
+          "pitch": -0.0003025908268377009,
           "title": "Baker Cannery",
           "text": ""
         },
@@ -326,7 +326,7 @@ var APP_DATA = {
         {
           "yaw": 1.4080686358197756,
           "pitch": 0.06269809545257843,
-          "title": "Baker store &amp; tenent home",
+          "title": "Baker store &amp; tenant home",
           "text": ""
         }
       ]
@@ -373,7 +373,7 @@ var APP_DATA = {
         {
           "yaw": -1.623780173196149,
           "pitch": -0.09278858413845725,
-          "title": "Baker Tenent Homes",
+          "title": "Baker Tenant Homes",
           "text": "<div>This row of 2 story homes were originally tenant homes for the workers in the Baker fields and canning warehouse.</div><div><br></div><div>Click here to learn more about the lives of the Baker farmers!</div>"
         }
       ]

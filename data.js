@@ -371,8 +371,8 @@ var APP_DATA = {
           "text": "<div>Bakerfield Elementary School, located on Baker Street in Aberdeen, was built on a former farm field belonging to the C. W. Baker family, one of Aberdeen’s most prominent canners of sugar corn.</div><div><br></div><div>Click here to learn more about Bakerfield Elementary!</div>"
         },
         {
-          "yaw": -1.623780173196149,
-          "pitch": -0.09278858413845725,
+        "yaw": -2.787428042386642,
+          "pitch": -0.0003025908268377009,
           "title": "Baker Tenent Homes",
           "text": "<div>This row of 2 story homes were originally tenant homes for the workers in the Baker fields and canning warehouse.</div><div><br></div><div>Click here to learn more about the lives of the Baker farmers!</div>"
         }

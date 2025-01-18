@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1-bo-railroad",
-      "name": "[1] B&O Railroad",
+      "name": "[1] B&O Railroad.",
       "levels": [
         {
           "tileSize": 256,

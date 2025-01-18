@@ -77,7 +77,7 @@ var APP_DATA = {
           "yaw": -2.4039324953965426,
           "pitch": 0.2047951343661687,
           "rotation": 0,
-          "target": "2-3-canning-warehouse."
+          "target": "2-3-baker-canning-warehouse"
         },
         {
           "yaw": 1.1067429336931305,
@@ -102,7 +102,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "2-3-canning-warehouse.",
+      "id": "2-3-baker-canning-warehouse",
       "name": "[3] Baker Canning Warehouse",
       "levels": [
         {
@@ -121,40 +121,40 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 1.5974837415740417,
-        "pitch": 0.20153678921276708,
-        "fov": 1.330911687547056
+        "yaw": 1.3226765466465054,
+        "pitch": 0.07591984597346446,
+        "fov": 1.3386128792647953
       },
       "linkHotspots": [
         {
-          "yaw": -0.5442221131089742,
-          "pitch": 0.33382843038022614,
+          "yaw": 0.029235478649244584,
+          "pitch": 0.23525358035647237,
           "rotation": 6.283185307179586,
           "target": "4-5-baker-tenant-home--store"
         },
         {
-          "yaw": -0.016950832746163158,
-          "pitch": 0.23971686060818875,
-          "rotation": 0.7853981633974483,
+          "yaw": -0.32451771953487096,
+          "pitch": 0.217125019540525,
+          "rotation": 0,
           "target": "3-4-george-w-baker-house"
         },
         {
-          "yaw": -2.6559782470440485,
-          "pitch": 0.28404152266679716,
-          "rotation": 5.497787143782138,
+          "yaw": -2.5003948029058414,
+          "pitch": 0.4346060596557795,
+          "rotation": 11.780972450961727,
           "target": "1-2-bo-train-station"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 2.1927650710639153,
-          "pitch": -0.15494757277451932,
+          "yaw": 1.4024405082697928,
+          "pitch": -0.16236608249486473,
           "title": "Baker Canning Warehouse",
           "text": "<div>This now vacant building was formerly a canning warehouse owned by the Baker family. Built around the 1900s, the warehouse was once responsible for churning out 125,000 cases of corn per season. A spur line from the B&amp;O train yard crossed Bel Air Avenue and ran along the righthand side of the building where boxes of canned goods were loaded onto the train from the warehouse for shipment.</div>"
         },
         {
-          "yaw": -2.050721175626151,
-          "pitch": -0.0044795964027048996,
+          "yaw": -1.987774083685558,
+          "pitch": -0.06181421883566962,
           "title": "B&amp;O Train Station",
           "text": ""
         }
@@ -189,7 +189,7 @@ var APP_DATA = {
           "yaw": 0.051355118312127246,
           "pitch": 0.24381475448908496,
           "rotation": 0,
-          "target": "2-3-canning-warehouse."
+          "target": "2-3-baker-canning-warehouse"
         }
       ],
       "infoHotspots": [
@@ -242,7 +242,7 @@ var APP_DATA = {
           "yaw": -0.32410937401670914,
           "pitch": 0.25275483746815475,
           "rotation": 5.497787143782138,
-          "target": "2-3-canning-warehouse."
+          "target": "2-3-baker-canning-warehouse"
         }
       ],
       "infoHotspots": [
@@ -259,8 +259,8 @@ var APP_DATA = {
           "text": ""
         },
         {
-          "yaw": -2.787428042386642,
-          "pitch": -0.0003025908268377009,
+          "yaw": -2.573620905634044,
+          "pitch": -0.08800881959840545,
           "title": "Baker Cannery",
           "text": ""
         },
@@ -312,8 +312,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -2.2560769538265006,
-          "pitch": -0.07239436598055704,
+          "yaw": -1.849447884763606,
+          "pitch": -0.146810346268758,
           "title": "Baker Cannery",
           "text": "<div>This marble furniture store was formerly a cannery owned by the Baker family. Built in 1908, its proximity to the train tracks allowed for rapid and efficient shipping of cans before the widespread use of automobiles. The original chimney in the building still stands.&nbsp;</div><div><br></div><div>Click here to learn more about the Baker Canning Buildings!</div>"
         },
@@ -407,7 +407,7 @@ var APP_DATA = {
           "yaw": -2.5754831362601713,
           "pitch": 0.3448207486888357,
           "rotation": 5.497787143782138,
-          "target": "2-3-canning-warehouse."
+          "target": "2-3-baker-canning-warehouse"
         },
         {
           "yaw": 0.023938835203942688,
@@ -684,7 +684,7 @@ var APP_DATA = {
           "yaw": -2.2542571886048126,
           "pitch": 0.21235472039736614,
           "rotation": 0.7853981633974483,
-          "target": "13-14-Carriage-House"
+          "target": "13-14-soldiers-barracks"
         }
       ],
       "infoHotspots": [

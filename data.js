@@ -77,7 +77,7 @@ var APP_DATA = {
           "yaw": -2.4039324953965426,
           "pitch": 0.2047951343661687,
           "rotation": 0,
-          "target": "2-3-baker-canning-warehouse"
+          "target": "2-3-canning-warehouse."
         },
         {
           "yaw": 1.1067429336931305,

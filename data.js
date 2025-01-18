@@ -77,7 +77,7 @@ var APP_DATA = {
           "yaw": -2.4039324953965426,
           "pitch": 0.2047951343661687,
           "rotation": 0,
-          "target": "2-3-canning-warehouse."
+          "target": "2-3-baker-canning-warehouse"
         },
         {
           "yaw": 1.1067429336931305,
@@ -102,7 +102,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "2-3-canning-warehouse.",
+      "id": "2-3-baker-canning-warehouse",
       "name": "[3] Baker Canning Warehouse",
       "levels": [
         {
@@ -189,7 +189,7 @@ var APP_DATA = {
           "yaw": 0.051355118312127246,
           "pitch": 0.24381475448908496,
           "rotation": 0,
-          "target": "2-3-canning-warehouse."
+          "target": "2-3-baker-canning-warehouse"
         }
       ],
       "infoHotspots": [
@@ -242,7 +242,7 @@ var APP_DATA = {
           "yaw": -0.32410937401670914,
           "pitch": 0.25275483746815475,
           "rotation": 5.497787143782138,
-          "target": "2-3-canning-warehouse."
+          "target": "2-3-baker-canning-warehouse"
         }
       ],
       "infoHotspots": [
@@ -407,7 +407,7 @@ var APP_DATA = {
           "yaw": -2.5754831362601713,
           "pitch": 0.3448207486888357,
           "rotation": 5.497787143782138,
-          "target": "2-3-canning-warehouse."
+          "target": "2-3-baker-canning-warehouse"
         },
         {
           "yaw": 0.023938835203942688,

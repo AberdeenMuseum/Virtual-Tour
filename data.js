@@ -103,7 +103,7 @@ var APP_DATA = {
     },
     {
       "id": "2-3-canning-warehouse.",
-      "name": "[3] Baker Canning Warehouse.",
+      "name": "[3] Baker Canning Warehouse",
       "levels": [
         {
           "tileSize": 256,

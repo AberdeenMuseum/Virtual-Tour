@@ -147,8 +147,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 1.4024405082697928,
-          "pitch": -0.16236608249486473,
+       "yaw": 0.8752507106646021,
+          "pitch": -0.17664307464886164,
           "title": "Baker Canning Warehouse",
           "text": "<div>This now vacant building was formerly a canning warehouse owned by the Baker family. Built around the 1900s, the warehouse was once responsible for churning out 125,000 cases of corn per season. A spur line from the B&amp;O train yard crossed Bel Air Avenue and ran along the righthand side of the building where boxes of canned goods were loaded onto the train from the warehouse for shipment.</div>"
         },

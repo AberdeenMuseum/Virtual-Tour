@@ -259,7 +259,7 @@ var APP_DATA = {
           "text": ""
         },
         {
-         "yaw": -2.787428042386642,
+         "yaw": -2.2,
           "pitch": -0.0003025908268377009,
           "title": "Baker Cannery",
           "text": ""

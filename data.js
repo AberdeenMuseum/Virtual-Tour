@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1-bo-railroad",
-      "name": "[1] B&O Railroad.",
+      "name": "[1] B&O Railroad",
       "levels": [
         {
           "tileSize": 256,
@@ -259,8 +259,8 @@ var APP_DATA = {
           "text": ""
         },
         {
-          "yaw": -2.2560769538265006,
-          "pitch": -0.07239436598055704,
+          "yaw": -2.573620905634044,
+          "pitch": -0.08800881959840545,
           "title": "Baker Cannery",
           "text": ""
         },
@@ -312,8 +312,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -2.2560769538265006,
-          "pitch": -0.07239436598055704,
+          "yaw": -1.849447884763606,
+          "pitch": -0.146810346268758,
           "title": "Baker Cannery",
           "text": "<div>This marble furniture store was formerly a cannery owned by the Baker family. Built in 1908, its proximity to the train tracks allowed for rapid and efficient shipping of cans before the widespread use of automobiles. The original chimney in the building still stands.&nbsp;</div><div><br></div><div>Click here to learn more about the Baker Canning Buildings!</div>"
         },
@@ -371,8 +371,8 @@ var APP_DATA = {
           "text": "<div>Bakerfield Elementary School, located on Baker Street in Aberdeen, was built on a former farm field belonging to the C. W. Baker family, one of Aberdeen’s most prominent canners of sugar corn.</div><div><br></div><div>Click here to learn more about Bakerfield Elementary!</div>"
         },
         {
-        "yaw": -2.787428042386642,
-          "pitch": -0.0003025908268377009,
+          "yaw": -1.623780173196149,
+          "pitch": -0.09278858413845725,
           "title": "Baker Tenent Homes",
           "text": "<div>This row of 2 story homes were originally tenant homes for the workers in the Baker fields and canning warehouse.</div><div><br></div><div>Click here to learn more about the lives of the Baker farmers!</div>"
         }

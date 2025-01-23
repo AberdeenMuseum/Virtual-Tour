@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1-bo-railroad",
-      "name": "[1] B&O Railroad.",
+      "name": "[1] B&O Railroad",
       "levels": [
         {
           "tileSize": 256,
@@ -149,7 +149,7 @@ var APP_DATA = {
        "yaw": 0.8752507106646021,
           "pitch": -0.17664307464886164,
           "title": "Baker Canning Warehouse",
-          "text": "<div>This building was formerly a canning warehouse, originally owned by the Baker family. Built in 1908, it stored canned goods awaiting distribution. A spur line from the B&O train yard crossed Bel Air Avenue and ran along the right-hand side of the warehouse, where boxes of canned goods were loaded onto the train for shipment.   </div> <br><div>Click <a href='https://www.aberdeenmuseum.org/wp-content/uploads/2025/01/Canning-Buildings.pdf' style='color:lightblue' target='_blank'>here</a> to learn more about the Baker Canning Buildings! Station!</div>"
+          "text": "<div>This building was formerly a canning warehouse, originally owned by the Baker family. Built in 1908, it stored canned goods awaiting distribution. A spur line from the B&O train yard crossed Bel Air Avenue and ran along the right-hand side of the warehouse, where boxes of canned goods were loaded onto the train for shipment.   </div> <br><div>Click <a href='https://www.aberdeenmuseum.org/wp-content/uploads/2025/01/Canning-Buildings.pdf' style='color:lightblue' target='_blank'>here</a> to learn more about the Baker Canning Buildings!</div>"
         },
         {
           "yaw": -1.987774083685558,

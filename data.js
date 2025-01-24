@@ -314,7 +314,7 @@ var APP_DATA = {
            "yaw": -2.2560769538265006,
           "pitch": -0.07239436598055704,
           "title": "Baker Cannery",
-          "text": "<div>This marble furniture store was formerly a cannery owned by the Baker family. Built in 1908, its proximity to the train tracks allowed for rapid and efficient shipping of cans before the widespread use of automobiles. The original chimney in the building still stands.&nbsp;</div><div><br></div><div>Click here to learn more about the Baker Canning Buildings!</div>"
+          "text": "<div>This marble furniture store was formerly a cannery owned by the Baker family. Built in 1908, its proximity to the train tracks allowed for rapid and efficient shipping of cans before the widespread use of automobiles. The original chimney in the building still stands.&nbsp;</div> <br><div>Click <a href='https://www.aberdeenmuseum.org/wp-content/uploads/2025/01/Canning-Buildings.pdf' style='color:lightblue' target='_blank'>here</a> to learn more about the Baker Canning Buildings!</div>"
         },
         {
           "yaw": -0.6637876497083024,

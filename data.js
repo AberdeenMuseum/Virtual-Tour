@@ -196,7 +196,7 @@ var APP_DATA = {
           "yaw": 1.4526842006525351,
           "pitch": -0.07975216888971381,
           "title": "George W. Baker House",
-          "text": "<div>This lot was bought in 1744 by Nicholas Baker the second, the grandfather of George W. Baker. The house that once stood on this lot was built in 1801 and was inherited by George W. Baker, a canning pioneer. Unfortunately the historic house was torn down sometime after June 2018.
+          "text": "<div>This lot was bought in 1744 by Nicholas Baker the second, the grandfather of George W. Baker. The house that once stood on this lot was built in 1801 and was inherited by George W. Baker, a canning pioneer. Unfortunately the historic house was torn down sometime after June 2018.</div><div><br></div><div>Click here to learn about George W. Baker, the \"Father of Canning\"!</div>"
         }
       ]
     },
@@ -249,7 +249,7 @@ var APP_DATA = {
           "yaw": 2.8918004085678604,
           "pitch": -0.11886435295983944,
           "title": "Baker Tenant Home and Store",
-          "text": "This house once served dual purposes for the Baker family. We believe the front of the house functioned as a store, while the back served as a residence for tenant farmers, due to its elongated structure and the presence of two side doors.
+          "text": "This house once served dual purposes for the Baker family. We believe the front of the house functioned as a store, while the back served as a residence for tenant farmers, due to its elongated structure and the presence of two side doors.<div><br></div><div>Click here to learn more about the Baker store!</div>"
         },
         {
           "yaw": -1.4359606776249478,
@@ -314,8 +314,7 @@ var APP_DATA = {
            "yaw": -2.2560769538265006,
           "pitch": -0.07239436598055704,
           "title": "Baker Cannery",
-          "text": "<div>This marble furniture store was formerly a cannery owned by the Baker family. Built in 1908, its proximity to the train tracks allowed for rapid and efficient shipping of cans before the widespread use of automobiles. The original chimney in the building still stands.&nbsp;</div> <br><div>Click <a href='https://www.aberdeenmuseum.org/wp-content/uploads/2025/01/Canning-Buildings.pdf' style='color:lightblue' target='_blank'>here</a> to learn more about the Baker Canning Buildings!</div>"
-
+          "text": "<div>This marble furniture store was formerly a cannery owned by the Baker family. Built in 1908, its proximity to the train tracks allowed for rapid and efficient shipping of cans before the widespread use of automobiles. The original chimney in the building still stands.&nbsp;</div><div><br></div><div>Click here to learn more about the Baker Canning Buildings!</div>"
         },
         {
           "yaw": -0.6637876497083024,
@@ -368,13 +367,13 @@ var APP_DATA = {
           "yaw": 1.3177073995693185,
           "pitch": 0.009332719567247239,
           "title": "Bakerfield Elementary",
-          "text": "<div>Bakerfield Elementary School, located on Baker Street in Aberdeen, was built on a former farm field belonging to the C. W. Baker family, one of Aberdeen’s most prominent canners of sugar corn.
+          "text": "<div>Bakerfield Elementary School, located on Baker Street in Aberdeen, was built on a former farm field belonging to the C. W. Baker family, one of Aberdeen’s most prominent canners of sugar corn.</div><div><br></div><div>Click here to learn more about Bakerfield Elementary!</div>"
         },
         {
           "yaw": -1.623780173196149,
           "pitch": -0.09278858413845725,
           "title": "Baker Tenant Homes",
-          "text": "<div>This row of 2 story homes were originally tenant homes for the workers in the Baker fields and canning warehouse.
+          "text": "<div>This row of 2 story homes were originally tenant homes for the workers in the Baker fields and canning warehouse.</div><div><br></div><div>Click here to learn more about the lives of the Baker farmers!</div>"
         }
       ]
     },
@@ -421,7 +420,7 @@ var APP_DATA = {
           "yaw": -1.54502564737923,
           "pitch": -0.03385273187133642,
           "title": "C. Curtis Morgan",
-          "text": "<div>C. Curtis Morgan built this house in 1951 as his family homestead. Mr. Morgan, born in 1907, was a prominent businessman and civic leader in Aberdeen, most notable for creating C. Curtis Morgan Co. which is now known as Ferrell fuel. His company began selling coal and later added fuel oil.
+          "text": "<div>C. Curtis Morgan built this house in 1951 as his family homestead. Mr. Morgan, born in 1907, was a prominent businessman and civic leader in Aberdeen, most notable for creating C. Curtis Morgan Co. which is now known as Ferrell fuel. His company began selling coal and later added fuel oil.</div><div><br></div><div>Click here to learn more about Mr. Morgan!</div>"
         }
       ]
     },
@@ -468,7 +467,7 @@ var APP_DATA = {
           "yaw": -1.2723111970262337,
           "pitch": -0.09987689466346339,
           "title": "The Hummingbird",
-          "text": "<div>Dubbed \"The Hummingbird,\" James Bramwell Baker's Queen Anne-style mansion, built in 1896, highlights his successes as a canner. Many of the distinct blue shingles on the house were repurposed from shipping crates used for canning. If you were to turn one over, it may read “Baker Canning” imprinted on the back.&nbsp;
+          "text": "<div>Dubbed \"The Hummingbird,\" James Bramwell Baker's Queen Anne-style mansion, built in 1896, highlights his successes as a canner. Many of the distinct blue shingles on the house were repurposed from shipping crates used for canning. If you were to turn one over, it may read “Baker Canning” imprinted on the back.&nbsp;</div><div><br></div><div>Click here to learn more about the Hummingbird and James B. Baker!</div>"
         }
       ]
     },
@@ -515,7 +514,7 @@ var APP_DATA = {
           "yaw": -1.2847183386728567,
           "pitch": -0.12901249774933987,
           "title": "The Dakota",
-          "text": "<div>Nicknamed “The Dakota”, William Baker built this house in 1906, mirroring his brother’s&nbsp; Queen Anne-styled mansion. The house features wood sourced from Tsarist Russia. Today, the mansion serves as an assisted living center.&nbsp;
+          "text": "<div>Nicknamed “The Dakota”, William Baker built this house in 1906, mirroring his brother’s&nbsp; Queen Anne-styled mansion. The house features wood sourced from Tsarist Russia. Today, the mansion serves as an assisted living center.&nbsp;</div><div><br></div><div>Click here to learn more about the Dakota and William Baker!</div>"
         },
         {
           "yaw": 0.8749014314258154,
@@ -568,7 +567,7 @@ var APP_DATA = {
           "yaw": 1.459934276941726,
           "pitch": -0.1454340461809842,
           "title": "Beulah Baker Adam's House",
-          "text": "<div>Members of the Adam’s family have called this house “home” since it’s early construction in the early 1920s.
+          "text": "<div>Members of the Adam’s family have called this house “home” since it’s early construction in the early 1920s.</div><div><br></div><div>Click here to learn about the original owners of the house!</div>"
         },
         {
           "yaw": -1.0105218401624612,
@@ -621,7 +620,7 @@ var APP_DATA = {
           "yaw": -1.2615278051146923,
           "pitch": -0.06550675388024985,
           "title": "John Baker's House",
-          "text": "<div>This house, built around 1894, was owned by John Hanson Baker, a canner and Methodist minister. Unlike his brothers' grand mansions, John's home is much more modest, reflecting the nature of his profession. When John stopped canning, his father, George W. Baker, wrote him out of the will. However, upon resuming his canning work, John was reinstated. This indicates that John's commitment to his faith likely limited his earnings compared to his brothers.
+          "text": "<div>This house, built around 1894, was owned by John Hanson Baker, a canner and Methodist minister. Unlike his brothers' grand mansions, John's home is much more modest, reflecting the nature of his profession. When John stopped canning, his father, George W. Baker, wrote him out of the will. However, upon resuming his canning work, John was reinstated. This indicates that John's commitment to his faith likely limited his earnings compared to his brothers.</div><div><br></div><div>Click here to learn more about John H. Baker!</div>"
         },
         {
           "yaw": 1.8735916102659784,
@@ -638,7 +637,7 @@ var APP_DATA = {
         {
           "yaw": -1.0450541192509526,
           "pitch": -0.04753727384940376,
-          "title": "Soldiers Baracks",
+          "title": "Carriage House",
           "text": ""
         }
       ]
@@ -692,7 +691,7 @@ var APP_DATA = {
           "yaw": -1.2797483355709005,
           "pitch": -0.1435353133375621,
           "title": "John Finney Well's House",
-          "text": "<div>This house was built in 1910 and owned by John Finney Wells, who lived here until 1936. The garage of the house was once used as a stable for horses. In 1936, the house was bought by Lumsden Dick, the foster parent of C. Curtis Morgan, whose house is also included in the tour.&nbsp;
+          "text": "<div>This house was built in 1910 and owned by John Finney Wells, who lived here until 1936. The garage of the house was once used as a stable for horses. In 1936, the house was bought by Lumsden Dick, the foster parent of C. Curtis Morgan, whose house is also included in the tour.&nbsp;</div><div><br></div><div>Click here to learn more about John Wells!</div>"
         }
       ]
     },
@@ -732,7 +731,7 @@ var APP_DATA = {
         {
           "yaw": 1.3309756733329046,
           "pitch": -0.08966562901514408,
-          "title": "Soldier's Barracks",
+          "title": "Carriage House",
           "text": "This house was originally a carriage house for storing wagons and carriages. It was repurposed during World War II to accommodate the influx of soldiers in need of temporary housing. To address the increased demand, it was divided into two apartments rented to soldiers’ families, providing them shelter and comfort amidst the chaos of war.&nbsp;<br>"
         },
         {
@@ -786,13 +785,13 @@ var APP_DATA = {
           "yaw": 1.2797178472747355,
           "pitch": -0.2924477389054623,
           "title": "Dr. Plunkett's House",
-          "text": "<div>Dr. Plunkett's house was both his residence and  medical office. He lived upstairs, where he enjoyed the comforts of home, and conducted his medical practice downstairs, providing easy access for his patients. As the sole doctor in Aberdeen, Dr. Plunkett was a dedicated general practitioner, handling a wide variety of medical issues and caring for the health needs of his community.</div>"
+          "text": "<div><span data-canva-clipboard=\"ewAiAGEAIgA6ADUALAAiAGgAIgA6ACIAdwB3AHcALgBjAGEAbgB2AGEALgBjAG8AbQAiACwAIgBjACIAOgAiAEQAQQBGADcAOQA4AF8AWABlAHcARQAiACwAIgBpACIAOgAiAFQAbgBMAFUAZQBFAFYAUgBBAFMANQB1AE4AeABXAG4AdABtADcAQgBFAGcAIgAsACIAYgAiADoAMQA3ADIAMQA3ADIAOAA0ADQAOQA0ADcANwAsACIAQQA/ACIAOgAiAEIAIgAsACIAQQAiADoAWwB7ACIAQQAiADoAMQA0ADgALgA1ADkAOAAxADMANwAyADIANAA0ADYANAA1ADIALAAiAEIAIgA6ADgAMQAuADYAMAAwADAAMAAwADAAMAAwADAAMAAwADAAMgAsACIARAAiADoANgA1ADIALgA4ACwAIgBDACIAOgA4ADQALgA4ACwAIgBUACIAOgB7ACIAQQBBAEEAQgBrAE4AOABEAE4AagBZAF8AcQBJAEUAUAA3AEUAeQBJAEQAUQAiADoAMQB9ACwAIgBBAD8AIgA6ACIASwAiACwAIgBhACIAOgB7ACIAQQAiADoAWwB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAIgBEAHIALgAgAFAAbAB1AG4AawBlAHQAdAAnAHMAIABoAG8AdQBzAGUAIAB3AGEAcwAgAGIAbwB0AGgAIABoAGkAcwAgAHIAZQBzAGkAZABlAG4AYwBlACAAYQBuAGQAIAAgAG0AZQBkAGkAYwBhAGwAIABvAGYAZgBpAGMAZQAuACAASABlACAAbABpAHYAZQBkACAAdQBwAHMAdABhAGkAcgBzACwAIAB3AGgAZQByAGUAIABoAGUAIABlAG4AagBvAHkAZQBkACAAdABoAGUAIABjAG8AbQBmAG8AcgB0AHMAIABvAGYAIABoAG8AbQBlACwAIABhAG4AZAAgAGMAbwBuAGQAdQBjAHQAZQBkACAAaABpAHMAIABtAGUAZABpAGMAYQBsACAAcAByAGEAYwB0AGkAYwBlACAAZABvAHcAbgBzAHQAYQBpAHIAcwAsACAAcAByAG8AdgBpAGQAaQBuAGcAIABlAGEAcwB5ACAAYQBjAGMAZQBzAHMAIABmAG8AcgAgAGgAaQBzACAAcABhAHQAaQBlAG4AdABzAC4AIABBAHMAIAB0AGgAZQAgAHMAbwBsAGUAIABkAG8AYwB0AG8AcgAgAGkAbgAgAEEAYgBlAHIAZABlAGUAbgAsACAARAByAC4AIABQAGwAdQBuAGsAZQB0AHQAIAB3AGEAcwAgAGEAIABkAGUAZABpAGMAYQB0AGUAZAAgAGcAZQBuAGUAcgBhAGwAIABwAHIAYQBjAHQAaQB0AGkAbwBuAGUAcgAsACAAaABhAG4AZABsAGkAbgBnACAAYQAgAHcAaQBkAGUAIAB2AGEAcgBpAGUAdAB5ACAAbwBmACAAbQBlAGQAaQBjAGEAbAAgAGkAcwBzAHUAZQBzACAAYQBuAGQAIABjAGEAcgBpAG4AZwAgAGYAbwByACAAdABoAGUAIABoAGUAYQBsAHQAaAAgAG4AZQBlAGQAcwAgAG8AZgAgAGgAaQBzACAAYwBvAG0AbQB1AG4AaQB0AHkALgAgAFwAbgAiAH0AXQAsACIAQgAiADoAWwB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAewAiAGYAbwBuAHQALQBmAGEAbQBpAGwAeQAiADoAewAiAEIAIgA6ACIAWQBBAEYAZABKAHQAZgBNAEQANgBZACwAMAAiAH0AfQB9ACwAewAiAEEAPwAiADoAIgBCACIALAAiAEEAIgA6ADMAOAA1AH0ALAB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAewAiAGMAbwBsAG8AcgAiADoAewAiAEIAIgA6ACIAIwAwADAAMAAwADAAMAAiAH0ALAAiAGYAbwBuAHQALQBzAHQAeQBsAGUAIgA6AHsAIgBCACIAOgAiAG4AbwByAG0AYQBsACIAfQAsACIAZgBvAG4AdAAtAHMAaQB6AGUAIgA6AHsAIgBCACIAOgAiADEANgAuADAAIgB9AH0AfQAsAHsAIgBBAD8AIgA6ACIAQgAiACwAIgBBACIAOgAxAH0ALAB7ACIAQQA/ACIAOgAiAEEAIgAsACIAQQAiADoAewAiAGYAbwBuAHQALQBzAGkAegBlACIAOgB7AH0ALAAiAGYAbwBuAHQALQBzAHQAeQBsAGUAIgA6AHsAfQAsACIAYwBvAGwAbwByACIAOgB7AH0ALAAiAGYAbwBuAHQALQBmAGEAbQBpAGwAeQAiADoAewB9AH0AfQBdAH0ALAAiAGIAIgA6AHsAIgBBACIAOgBbADEAMAA1ACwAMQAwADgALAAxADAANwAsADYANgBdAH0ALAAiAGQAIgA6ACIAQQAiACwAIgBnACIAOgBmAGEAbABzAGUALAAiAGgAIgA6ACIAQQAiAH0AXQAsACIAQgAiADoAOAAxADYALAAiAEMAIgA6ADEAMAA1ADYAfQA=\"></span><p>Dr. Plunkett's house was both his residence and  medical office. He lived upstairs, where he enjoyed the comforts of home, and conducted his medical practice downstairs, providing easy access for his patients. As the sole doctor in Aberdeen, Dr. Plunkett was a dedicated general practitioner, handling a wide variety of medical issues and caring for the health needs of his community.</p><p><br></p><p>Click here to learn more about Dr. Plunkett</p></div>"
         },
         {
           "yaw": -1.5239406869061831,
           "pitch": -0.2709919314325955,
           "title": "Standpipe",
-          "text": "This water tower stands on the same site as the original 1897 standpipe and pumping station, which was Aberdeen’s only localized source of clean water at that time. (because it passed through many rocks in the ground Citizens once said that the water was so pure it passed every inspection without needing any chemicals. The area surrounding the water tower was once a farm owned by the Krouse family.
+          "text": "This water tower stands on the same site as the original 1897 standpipe and pumping station, which was Aberdeen’s only localized source of clean water at that time. (because it passed through many rocks in the ground Citizens once said that the water was so pure it passed every inspection without needing any chemicals. The area surrounding the water tower was once a farm owned by the Krouse family.<div><br></div><div>Click here to learn to learn more about Aberdeen's first standpipe!</div>"
         }
       ]
     },
@@ -839,7 +838,7 @@ var APP_DATA = {
           "yaw": 1.1387270487236023,
           "pitch": -0.28128176462183774,
           "title": "Charles W. Baker House",
-          "text": "This house was built in 1885 by Charles Winfield Baker.&nbsp; Charles not only built this house but also established the Baker Canning Factory and Warehouse, both of which are included in the tour. According to the current owner, the house is said to be haunted, with four reported ghost occurrences.
+          "text": "This house was built in 1885 by Charles Winfield Baker.&nbsp; Charles not only built this house but also established the Baker Canning Factory and Warehouse, both of which are included in the tour. According to the current owner, the house is said to be haunted, with four reported ghost occurrences.<div><br></div><div>Click here to learn more about Charles W. Baker!</div>"
         }
       ]
     },
@@ -886,13 +885,13 @@ var APP_DATA = {
           "yaw": -1.3231864788963996,
           "pitch": -0.20992760445629877,
           "title": "P. Tevis Baker's House",
-          "text": "<div>Built in 1907, this house was owned by P. Tevis Baker - the eldest son of Charles W. Baker.&nbsp;
+          "text": "<div>Built in 1907, this house was owned by P. Tevis Baker - the eldest son of Charles W. Baker.&nbsp;</div><div><br></div><div>Click here to learn more about P. Tevis Baker</div>"
         },
         {
           "yaw": -1.3236420607467885,
           "pitch": -0.216985464900187,
           "title": "P. Tevis Baker House",
-          "text": "<div>Built in 1907, this house was owned by P. Tevis Baker - the eldest son of Charles W. Baker.
+          "text": "<div>Built in 1907, this house was owned by P. Tevis Baker - the eldest son of Charles W. Baker.&nbsp;</div><div><br></div><div>Click here to learn more about P. Tevis Baker!</div>"
         }
       ]
     },
@@ -939,7 +938,7 @@ var APP_DATA = {
           "yaw": 1.4762156817136827,
           "pitch": -0.347673491147539,
           "title": "Orion C. Michael House",
-          "text": "<div>This home was built by Orion Clay Michael in 1894 and was named \"Oak Grove\". Mr Michael owned the first coal dealership in the area, it was located along what is now the Pennsylvania/ Amtrak railroad south of the station. Orion married Martha S. Richardson, “Mattie”, a school teacher. The Michaels had no children. Mrs Michael died in 1937. Mr Michael died in 1944 having been an invalid for his final four years.
+          "text": "<div>This home was built by Orion Clay Michael in 1894 and was named \"Oak Grove\". Mr Michael owned the first coal dealership in the area, it was located along what is now the Pennsylvania/ Amtrak railroad south of the station. Orion married Martha S. Richardson, “Mattie”, a school teacher. The Michaels had no children. Mrs Michael died in 1937. Mr Michael died in 1944 having been an invalid for his final four years.&nbsp;</div><div><br></div><div>Click here to learn more about Orion C. Michael!</div>"
         }
       ]
     },
@@ -986,7 +985,7 @@ var APP_DATA = {
           "yaw": -1.1362498801998235,
           "pitch": -0.2302639656501011,
           "title": "Richard Morton House",
-          "text": "This house, built in 1920, was once owned by the renowned local artist Richard Morton. Born in 1921, Morton served in Europe during World War II. After the war, he worked as a civilian graphic artist at Aberdeen Proving Ground in 1980. Morton painted many historic homes in Aberdeen, including his own.
+          "text": "This house, built in 1920, was once owned by the renowned local artist Richard Morton. Born in 1921, Morton served in Europe during World War II. After the war, he worked as a civilian graphic artist at Aberdeen Proving Ground in 1980. Morton painted many historic homes in Aberdeen, including his own.<div><br></div><div>Click here to learn more about Richard Morton!</div>"
         }
       ]
     },
@@ -1027,7 +1026,7 @@ var APP_DATA = {
           "yaw": -1.3517031069415424,
           "pitch": -0.07772184226540801,
           "title": "<div>First Telephone Exchange in Aberdeen</div>",
-          "text": "<div>Built in 1864, this house was not only housed a family, but was home to the&nbsp; first telephone exchange in Aberdeen until 1909. The telephone exchange most likedly operated in one room, with the rest of the house being used for living purposes.
+          "text": "<div>Built in 1864, this house was not only housed a family, but was home to the&nbsp; first telephone exchange in Aberdeen until 1909. The telephone exchange most likedly operated in one room, with the rest of the house being used for living purposes.</div><div><br></div><div>Click here to learn more about the&nbsp;First Telephone Exchange in Aberdeen!</div>"
         }
       ]
     }

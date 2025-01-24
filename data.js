@@ -514,7 +514,7 @@ var APP_DATA = {
           "yaw": -1.2847183386728567,
           "pitch": -0.12901249774933987,
           "title": "The Dakota",
-          "text": "<div>Nicknamed “The Dakota”, William Baker built this house in 1906, mirroring his brother’s&nbsp; Queen Anne-styled mansion. The house features wood sourced from Tsarist Russia. Today, the mansion serves as an assisted living center.&nbsp;</div><div><br></div><div>Click here to learn more about the Dakota and William Baker!</div>"
+          "text": "<div>Nicknamed “The Dakota”, William Baker built this house in 1906, mirroring his brother’s&nbsp; Queen Anne-styled mansion. The house features wood sourced from Tsarist Russia. Today, the mansion serves as an assisted living center.</div>"
         },
         {
           "yaw": 0.8749014314258154,
@@ -567,7 +567,7 @@ var APP_DATA = {
           "yaw": 1.459934276941726,
           "pitch": -0.1454340461809842,
           "title": "Beulah Baker Adam's House",
-          "text": "<div>Members of the Adam’s family have called this house “home” since it’s early construction in the early 1920s.</div><div><br></div><div>Click here to learn about the original owners of the house!</div>"
+          "text": "<div>Members of the Adam’s family have called this house “home” since it’s early construction in the early 1920s.</div>"
         },
         {
           "yaw": -1.0105218401624612,
@@ -620,7 +620,7 @@ var APP_DATA = {
           "yaw": -1.2615278051146923,
           "pitch": -0.06550675388024985,
           "title": "John Baker's House",
-          "text": "<div>This house, built around 1894, was owned by John Hanson Baker, a canner and Methodist minister. Unlike his brothers' grand mansions, John's home is much more modest, reflecting the nature of his profession. When John stopped canning, his father, George W. Baker, wrote him out of the will. However, upon resuming his canning work, John was reinstated. This indicates that John's commitment to his faith likely limited his earnings compared to his brothers.</div><div><br></div><div>Click here to learn more about John H. Baker!</div>"
+          "text": "<div>This house, built around 1894, was owned by John Hanson Baker, a canner and Methodist minister. Unlike his brothers' grand mansions, John's home is much more modest, reflecting the nature of his profession. When John stopped canning, his father, George W. Baker, wrote him out of the will. However, upon resuming his canning work, John was reinstated. This indicates that John's commitment to his faith likely limited his earnings compared to his brothers.</div>"
         },
         {
           "yaw": 1.8735916102659784,
@@ -691,7 +691,7 @@ var APP_DATA = {
           "yaw": -1.2797483355709005,
           "pitch": -0.1435353133375621,
           "title": "John Finney Well's House",
-          "text": "<div>This house was built in 1910 and owned by John Finney Wells, who lived here until 1936. The garage of the house was once used as a stable for horses. In 1936, the house was bought by Lumsden Dick, the foster parent of C. Curtis Morgan, whose house is also included in the tour.&nbsp;</div><div><br></div><div>Click here to learn more about John Wells!</div>"
+          "text": "<div>This house was built in 1910 and owned by John Finney Wells, who lived here until 1936. The garage of the house was once used as a stable for horses. In 1936, the house was bought by Lumsden Dick, the foster parent of C. Curtis Morgan, whose house is also included in the tour.</div>"
         }
       ]
     },
@@ -932,7 +932,7 @@ var APP_DATA = {
           "yaw": 1.4762156817136827,
           "pitch": -0.347673491147539,
           "title": "Orion C. Michael House",
-          "text": "<div>This home was built by Orion Clay Michael in 1894 and was named \"Oak Grove\". Mr Michael owned the first coal dealership in the area, it was located along what is now the Pennsylvania/ Amtrak railroad south of the station. Orion married Martha S. Richardson, “Mattie”, a school teacher. The Michaels had no children. Mrs Michael died in 1937. Mr Michael died in 1944 having been an invalid for his final four years.&nbsp;</div><div><br></div><div>Click here to learn more about Orion C. Michael!</div>"
+          "text": "<div>This home was built by Orion Clay Michael in 1894 and was named \"Oak Grove\". Mr Michael owned the first coal dealership in the area, it was located along what is now the Pennsylvania/ Amtrak railroad south of the station. Orion married Martha S. Richardson, “Mattie”, a school teacher. The Michaels had no children. Mrs Michael died in 1937. Mr Michael died in 1944 having been an invalid for his final four years.</div>"
         }
       ]
     },
@@ -979,7 +979,7 @@ var APP_DATA = {
           "yaw": -1.1362498801998235,
           "pitch": -0.2302639656501011,
           "title": "Richard Morton House",
-          "text": "This house, built in 1920, was once owned by the renowned local artist Richard Morton. Born in 1921, Morton served in Europe during World War II. After the war, he worked as a civilian graphic artist at Aberdeen Proving Ground in 1980. Morton painted many historic homes in Aberdeen, including his own.<div><br></div><div>Click here to learn more about Richard Morton!</div>"
+          "text": "This house, built in 1920, was once owned by the renowned local artist Richard Morton. Born in 1921, Morton served in Europe during World War II. After the war, he worked as a civilian graphic artist at Aberdeen Proving Ground in 1980. Morton painted many historic homes in Aberdeen, including his own.</div>"
         }
       ]
     },
@@ -1020,7 +1020,7 @@ var APP_DATA = {
           "yaw": -1.3517031069415424,
           "pitch": -0.07772184226540801,
           "title": "<div>First Telephone Exchange in Aberdeen</div>",
-          "text": "<div>Built in 1864, this house was not only housed a family, but was home to the&nbsp; first telephone exchange in Aberdeen until 1909. The telephone exchange most likedly operated in one room, with the rest of the house being used for living purposes.</div><div><br></div><div>Click here to learn more about the&nbsp;First Telephone Exchange in Aberdeen!</div>"
+          "text": "<div>Built in 1864, this house was not only housed a family, but was home to the&nbsp; first telephone exchange in Aberdeen until 1909. The telephone exchange most likedly operated in one room, with the rest of the house being used for living purposes.</div>"
         }
       ]
     }

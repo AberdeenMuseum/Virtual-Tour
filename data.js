@@ -249,7 +249,7 @@ var APP_DATA = {
           "yaw": 2.8918004085678604,
           "pitch": -0.11886435295983944,
           "title": "Baker Tenant Home and Store",
-          "text": "This house once served dual purposes for the Baker family. We believe the front of the house functioned as a store, while the back served as a residence for tenant farmers, due to its elongated structure and the presence of two side doors.<div><br></div><div>Click here to learn more about the Baker store!</div>"
+          "text": "This house once served dual purposes for the Baker family. We believe the front of the house functioned as a store, while the back served as a residence for tenant farmers, due to its elongated structure and the presence of two side doors.</div>"
         },
         {
           "yaw": -1.4359606776249478,

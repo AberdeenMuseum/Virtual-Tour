@@ -467,7 +467,7 @@ var APP_DATA = {
           "yaw": -1.2723111970262337,
           "pitch": -0.09987689466346339,
           "title": "The Hummingbird",
-          "text": "<div>Dubbed \"The Hummingbird,\" James Bramwell Baker's Queen Anne-style mansion, built in 1896, highlights his successes as a canner. Many of the distinct blue shingles on the house were repurposed from shipping crates used for canning. If you were to turn one over, it may read “Baker Canning” imprinted on the back.&nbsp;</div><div><br></div><div>Click here to learn more about the Hummingbird and James B. Baker!</div>"
+          "text": "<div>Dubbed \"The Hummingbird,\" James Bramwell Baker's Queen Anne-style mansion, built in 1896, highlights his successes as a canner. Many of the distinct blue shingles on the house were repurposed from shipping crates used for canning. If you were to turn one over, it may read “Baker Canning” imprinted on the back.</div>"
         }
       ]
     },

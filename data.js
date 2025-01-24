@@ -196,7 +196,7 @@ var APP_DATA = {
           "yaw": 1.4526842006525351,
           "pitch": -0.07975216888971381,
           "title": "George W. Baker House",
-          "text": "<div>This lot was bought in 1744 by Nicholas Baker the second, the grandfather of George W. Baker. The house that once stood on this lot was built in 1801 and was inherited by George W. Baker, a canning pioneer. Unfortunately the historic house was torn down sometime after June 2018.</div><div><br></div><div>Click here to learn about George W. Baker, the \"Father of Canning\"!</div>"
+          "text": "<div>This lot was bought in 1744 by Nicholas Baker the second, the grandfather of George W. Baker. The house that once stood on this lot was built in 1801 and was inherited by George W. Baker, a canning pioneer. Unfortunately the historic house was torn down sometime after June 2018.</div>"
         }
       ]
     },
@@ -367,13 +367,13 @@ var APP_DATA = {
           "yaw": 1.3177073995693185,
           "pitch": 0.009332719567247239,
           "title": "Bakerfield Elementary",
-          "text": "<div>Bakerfield Elementary School, located on Baker Street in Aberdeen, was built on a former farm field belonging to the C. W. Baker family, one of Aberdeen’s most prominent canners of sugar corn.</div><div><br></div><div>Click here to learn more about Bakerfield Elementary!</div>"
+          "text": "<div>Bakerfield Elementary School, located on Baker Street in Aberdeen, was built on a former farm field belonging to the C. W. Baker family, one of Aberdeen’s most prominent canners of sugar corn.</div>"
         },
         {
           "yaw": -1.623780173196149,
           "pitch": -0.09278858413845725,
           "title": "Baker Tenant Homes",
-          "text": "<div>This row of 2 story homes were originally tenant homes for the workers in the Baker fields and canning warehouse.</div><div><br></div><div>Click here to learn more about the lives of the Baker farmers!</div>"
+          "text": "<div>This row of 2 story homes were originally tenant homes for the workers in the Baker fields and canning warehouse.</div>"
         }
       ]
     },
@@ -420,7 +420,7 @@ var APP_DATA = {
           "yaw": -1.54502564737923,
           "pitch": -0.03385273187133642,
           "title": "C. Curtis Morgan",
-          "text": "<div>C. Curtis Morgan built this house in 1951 as his family homestead. Mr. Morgan, born in 1907, was a prominent businessman and civic leader in Aberdeen, most notable for creating C. Curtis Morgan Co. which is now known as Ferrell fuel. His company began selling coal and later added fuel oil.</div><div><br></div><div>Click here to learn more about Mr. Morgan!</div>"
+          "text": "<div>C. Curtis Morgan built this house in 1951 as his family homestead. Mr. Morgan, born in 1907, was a prominent businessman and civic leader in Aberdeen, most notable for creating C. Curtis Morgan Co. which is now known as Ferrell fuel. His company began selling coal and later added fuel oil.</div>"
         }
       ]
     },
